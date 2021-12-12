@@ -1,7 +1,7 @@
 # React Native Auth App
 
 ## Content
-* [Usage](#Howtouse?)
+* [How to use](#Howtouse?)
 * [Interfaces](#interfaces)
 
 ## How to use?
